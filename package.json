@@ -1,0 +1,9 @@
+{
+  "name": "jw-algorithms",
+  "version": "0.0.1",
+  "description": "a collection of algorithms",
+  "main": "./dist/index.js",
+  "scripts": {},
+  "author": "Jack Whatley",
+  "license": "ISC"
+}
